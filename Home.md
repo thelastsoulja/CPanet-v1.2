@@ -1,1 +1,1 @@
-Welcome to the XMWS-PHP-API-Client wiki!
+I will update this page shortly, I'm just sorting finishing the code before I publish instructions and examples on its use :)
